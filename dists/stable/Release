@@ -1,0 +1,11 @@
+Origin: media-dl-web
+Label: media-dl-web
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: media-dl-web apt repository
+Date: Thu, 05 Nov 2026 23:47:34 GMT
+SHA256:
+ e8edeb96e55fbdd19e01d3ee0c7fdf25ea3019e2c38fe771031c7bfaa1a1dfb8             1170 main/binary-all/Packages
+ fd73f57bad317696652451b15ef2b594ed91ef25c1fad36f7cd301de22510d4b              728 main/binary-all/Packages.gz

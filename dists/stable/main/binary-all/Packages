@@ -1,0 +1,23 @@
+Package: media-dl-web
+Version: 1.1.1
+Architecture: all
+Maintainer: DaMeowMan <meownutz42@gmail.com>
+Installed-Size: 399
+Filename: pool/main/m/media-dl-web/media-dl-web_1.1.1_all.deb
+Size: 170316
+MD5sum: 3a235db8da604375ec4f84f1943f7744
+SHA1: e80d1df6ca9316546c894a1987701925dbaad66f
+SHA256: 0c397ec10d24397455550a76e990e5190d122badb0d9646c08ce6744fa701f54
+Depends: python3 (>= 3.9), python3-venv, python3-pip, curl, wget, ca-certificates, openssl, ffmpeg, atomicparsley, aria2
+Recommends: uv, systemd, xdg-utils, nodejs, rtmpdump
+Section: web
+Priority: optional
+Description: Browser UI for yt-dlp and gallery-dl with a fullscreen player
+ Download videos with yt-dlp and images with gallery-dl from a web page, pick
+ extractors, watch anything in the browser (files the browser cannot decode are
+ transcoded on the fly by ffmpeg and played with hls.js), and update yt-dlp,
+ gallery-dl and hls.js with one click. Served over HTTPS (self-signed
+ certificate), optional proxy, yt-dlp plugins, Kemono/Coomer through gallery-dl.
+ .
+ Independent of the Tk package "media-dl": own command (media-dl-web), own
+ files under /opt/media-dl-web, own systemd service and port (8765).
