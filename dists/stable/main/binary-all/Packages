@@ -3,11 +3,11 @@ Version: 1.1.1
 Architecture: all
 Maintainer: DaMeowMan <meownutz42@gmail.com>
 Installed-Size: 399
-Filename: pool/main/m/media-dl-web/media-dl-web_1.1.1_all.deb
+Filename: pool/main/m/media-dl-web/media-dl-web_1.1.2_all.deb
 Size: 170316
-MD5sum: 3a235db8da604375ec4f84f1943f7744
-SHA1: e80d1df6ca9316546c894a1987701925dbaad66f
-SHA256: 0c397ec10d24397455550a76e990e5190d122badb0d9646c08ce6744fa701f54
+MD5sum: 5ed79a3b6deea862ef40a273cf1cca3f
+SHA1: 2c670b73034994567a6480354f616a3df4633c89
+SHA256: 9fc8813030028428818695ee950a681470a0b0cd8399dcb51eafa7824641f092
 Depends: python3 (>= 3.9), python3-venv, python3-pip, curl, wget, ca-certificates, openssl, ffmpeg, atomicparsley, aria2
 Recommends: uv, systemd, xdg-utils, nodejs, rtmpdump
 Section: web

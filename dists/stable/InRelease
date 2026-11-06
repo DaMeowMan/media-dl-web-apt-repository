@@ -8,14 +8,14 @@ Codename: stable
 Architectures: all
 Components: main
 Description: media-dl-web apt repository
-Date: Thu, 05 Nov 2026 23:47:34 GMT
+Date: Fri, 06 Nov 2026 00:20:03 GMT
 SHA256:
- e8edeb96e55fbdd19e01d3ee0c7fdf25ea3019e2c38fe771031c7bfaa1a1dfb8             1170 main/binary-all/Packages
- fd73f57bad317696652451b15ef2b594ed91ef25c1fad36f7cd301de22510d4b              728 main/binary-all/Packages.gz
+ e6f02fb3fac02d315d1c8a69c35cc5c91d331e9b3ce76da5d5bf6db7d643824b             1170 main/binary-all/Packages
+ 5801c88d956a515c8d6d3676a953d85fe9d149e7414d63532e1bf9435020b5bd              732 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQRScYIE8Mltd0crP0wOrtnQrqZh3gUCau0VlgAKCRAOrtnQrqZh
-3t/mAP9zgb7nPSZX/+CFaiOGkoHA9URdI5P6IdBNTUHIJWpyggEAz7ZSp2Z7PEf5
-OFRSQZARLnCt/nRzmyteE4bQCsqzowo=
-=0Xyf
+iHUEARYIAB0WIQRScYIE8Mltd0crP0wOrtnQrqZh3gUCau0dMwAKCRAOrtnQrqZh
+3ofZAQDGUiBCUS9klSxLWPBYbrZi1SeyEGIdWlQwXb8GRKOPYwEAvYTkvZsu75R5
+g239fQvyJXtl/MyxUkbFHlCOpEdqtAg=
+=QhnE
 -----END PGP SIGNATURE-----
