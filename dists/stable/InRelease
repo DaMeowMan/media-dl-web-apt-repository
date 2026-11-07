@@ -8,14 +8,14 @@ Codename: stable
 Architectures: all
 Components: main
 Description: media-dl-web apt repository
-Date: Fri, 06 Nov 2026 01:32:35 GMT
+Date: Sat, 07 Nov 2026 18:41:27 GMT
 SHA256:
- 3be8c798ee0500863ee6f9d5756865ca97f2c54a32d246b547ab14a12fa87212             2348 main/binary-all/Packages
- 9ad048f7a5b2e68e75e0bbfa7b1272df78fcb1df04a842f8d19ba05cb5951045              959 main/binary-all/Packages.gz
+ cdaf0491d822b63599bdfd7e03e7616a5012fe0d02d4785addef16126daa1b4e             3640 main/binary-all/Packages
+ 70db77ca5b2c173dd3d3e2e26e1e3284c3775ad33c977de0bdc24781afe116b5             1152 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQRScYIE8Mltd0crP0wOrtnQrqZh3gUCau0uMwAKCRAOrtnQrqZh
-3hy7AQDoDzCX5Axvn7MWL+UXTp55SGEsDuggk3JfpRat9+I22AD+JlnunhmgTar3
-OjGvIRbp40r3jl8Ugm5wedssNRSHOwE=
-=8aS0
+iHUEARYIAB0WIQRScYIE8Mltd0crP0wOrtnQrqZh3gUCau9w1wAKCRAOrtnQrqZh
+3oIkAP47FJSmDt6+38oZAKb3QnkxAFp7G/kylCqUNqAPsWPm4gD/W/UStD+M3d2X
+Rxf/UHcRnzyCRfrRdcZTRNtd879QMwc=
+=/x/o
 -----END PGP SIGNATURE-----
