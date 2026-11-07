@@ -5,7 +5,7 @@ Codename: stable
 Architectures: all
 Components: main
 Description: media-dl-web apt repository
-Date: Sat, 07 Nov 2026 18:41:27 GMT
+Date: Sat, 07 Nov 2026 18:59:17 GMT
 SHA256:
- cdaf0491d822b63599bdfd7e03e7616a5012fe0d02d4785addef16126daa1b4e             3640 main/binary-all/Packages
- 70db77ca5b2c173dd3d3e2e26e1e3284c3775ad33c977de0bdc24781afe116b5             1152 main/binary-all/Packages.gz
+ 82b11a76364a0f76c122f3bce47659854bebbd4ca6257074ee1392cb513231a8             4932 main/binary-all/Packages
+ 7c183ba5fcdd828065a4899a3ffd824b6a64fe7506534d8d45ba33ca7f00a20d             1274 main/binary-all/Packages.gz
