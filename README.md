@@ -9,6 +9,6 @@ echo 'deb [signed-by=/usr/share/keyrings/media-dl-web.gpg] https://DaMeowMan.git
 sudo apt update
 sudo apt install media-dl-web
 
-GitHub Pages can take a minute before the first apt update works.
-After that, new versions are a normal apt upgrade.
+#GitHub Pages can take a minute before the first apt update works.
+#After that, new versions are a normal apt upgrade.
 ```
